@@ -1,0 +1,15 @@
+export const DEMO_PROFILE = {
+  name: "Samira",
+  age: 15,
+  country: "Uzbekistan",
+  interests: "technology, design, business, solving problems",
+  favouriteSubjects: "mathematics and English",
+  activities: "created one Canva design for a school club",
+  strengths: "visual thinking, communication, mathematics",
+  certificates: "beginner Python certificate",
+  projects: "one Canva poster project; no applied coding project yet",
+  englishLevel: "B1",
+  dream: "Explore software engineering, UX design, or business analytics in the UK or Europe",
+  uncertainty: "Unsure whether I enjoy coding enough for software engineering",
+  budget: "Family has started discussing future costs but no final budget exists",
+};
