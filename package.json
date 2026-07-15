@@ -1,7 +1,7 @@
 {
-  "name": "yol-study-abroad",
-  "private": true,
+  "name": "compass",
   "version": "1.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,13 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.45.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-globe.gl": "^2.27.0"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.4.0"
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
